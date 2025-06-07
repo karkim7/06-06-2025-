@@ -1,0 +1,15 @@
+/workspaces/06-06-2025-/obj/Debug/net8.0/06-06-2025-.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/06-06-2025-/obj/Debug/net8.0/06-06-2025-.AssemblyInfoInputs.cache
+/workspaces/06-06-2025-/obj/Debug/net8.0/06-06-2025-.AssemblyInfo.cs
+/workspaces/06-06-2025-/obj/Debug/net8.0/06-06-2025-.csproj.CoreCompileInputs.cache
+/workspaces/06-06-2025-/obj/Debug/net8.0/06-06-2025-.sourcelink.json
+/workspaces/06-06-2025-/bin/Debug/net8.0/06-06-2025-
+/workspaces/06-06-2025-/bin/Debug/net8.0/06-06-2025-.deps.json
+/workspaces/06-06-2025-/bin/Debug/net8.0/06-06-2025-.runtimeconfig.json
+/workspaces/06-06-2025-/bin/Debug/net8.0/06-06-2025-.dll
+/workspaces/06-06-2025-/bin/Debug/net8.0/06-06-2025-.pdb
+/workspaces/06-06-2025-/obj/Debug/net8.0/06-06-2025-.dll
+/workspaces/06-06-2025-/obj/Debug/net8.0/refint/06-06-2025-.dll
+/workspaces/06-06-2025-/obj/Debug/net8.0/06-06-2025-.pdb
+/workspaces/06-06-2025-/obj/Debug/net8.0/06-06-2025-.genruntimeconfig.cache
+/workspaces/06-06-2025-/obj/Debug/net8.0/ref/06-06-2025-.dll
